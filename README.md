@@ -1,2 +1,2 @@
-# e-waf
-Just a light waf.
+# E-WAF
+一款轻量级的waf产品。
